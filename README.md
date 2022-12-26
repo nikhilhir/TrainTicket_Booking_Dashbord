@@ -31,8 +31,8 @@ Welcome to Train Ticket Booking dashboard enter your details choose arrival stat
 
 <table>
   <tr>
-    <td> ![Home](![Screenshot (156)](https://user-images.githubusercontent.com/97525857/209510407-167405ea-de99-4acf-8e50-9f675d63fd3e.png))</td>
-    <td>![dashbord](![Screenshot_20221226_105027](https://user-images.githubusercontent.com/97525857/209510433-ff8ea2e5-166f-438c-b1f8-1e3bbc384601.png))</td>
+     ![Home](![Screenshot (156)](https://user-images.githubusercontent.com/97525857/209510407-167405ea-de99-4acf-8e50-9f675d63fd3e.png))
+    ![dashbord](![Screenshot_20221226_105027](https://user-images.githubusercontent.com/97525857/209510433-ff8ea2e5-166f-438c-b1f8-1e3bbc384601.png))
    
 
   </tr>
