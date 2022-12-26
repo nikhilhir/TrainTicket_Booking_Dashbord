@@ -32,7 +32,7 @@ Welcome to Train Ticket Booking dashboard enter your details choose arrival stat
 <table>
   <tr>
     <td><img src="TrainDashbord.png" alt="home" /></td>
-    <td><img src="TrainDashbord.png" alt="dashbord" /></td>
+    <td><img src="" alt="dashbord" /></td>
   </tr>
   
   
