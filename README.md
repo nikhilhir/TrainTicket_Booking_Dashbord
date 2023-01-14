@@ -29,10 +29,15 @@ Welcome to Train Ticket Booking dashboard enter your details choose arrival stat
 
 ## Glimpses of Poject 🙈 :
 
+## Homepage
+![Tata1mg-HomePage](https://user-images.githubusercontent.com/97525857/210170367-5b68c209-245d-4af6-bf3f-a72c5aa4fb45.png)
+<!-- ![Screenshot (156)](https://user-images.githubusercontent.com/97525857/210170367-5b68c209-245d-4af6-bf3f-a72c5aa4fb45.png) -->
 
+
+## Dashboard
+![Tata1mg-HomePage](https://user-images.githubusercontent.com/97525857/209510433-ff8ea2e5-166f-438c-b1f8-1e3bbc384601.png)
   
-     ![Image](![Screenshot (156)](https://user-images.githubusercontent.com/97525857/209510407-167405ea-de99-4acf-8e50-9f675d63fd3e.png))
-     ![Image](![Screenshot_20221226_105027](https://user-images.githubusercontent.com/97525857/209510433-ff8ea2e5-166f-438c-b1f8-1e3bbc384601.png))
+    
    
 
 
